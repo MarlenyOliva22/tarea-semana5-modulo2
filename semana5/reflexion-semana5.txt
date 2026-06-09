@@ -1,0 +1,8 @@
+Las API podrian ayudar a las comunidades a compartir información, reportes o alertas de manera organizada,
+porque permiten que diferentes programas de software intercambien información, de tal manera que se puede 
+por ejemplo conectar aplicaciones de nuestros telefonos con bases de datos, esto simplicaria las tareas 
+como las de trámites porque permitirian que el usuario envie la información desde su celular a una base
+de datos mayor de por ejemplo una entidad del estado, sin necesidad de ir a las oficinas encargadas 
+presencialmente. De esta manera las API son muy utiles porque nos ayudarían a también enviar alertas (
+por ejemplo, de incendios), alertas de accidentes, reportes de tráfico, etc., siempre permitiendo la 
+comunicación de información de manera eficaz y la toma de decisiones de manera informada. 

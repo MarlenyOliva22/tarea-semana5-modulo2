@@ -1,0 +1,4 @@
+En la ruta localhost:3000 aparece la frase "Servidor activo"
+En la ruta localhost:3000/saludo aparece la frase "Hola comunidad"
+En la ruta localhost:3000/mensaje/juan aparece la frase "Hola Juan" tambien podemos editar el nombre para
+que diga por ejemplo "Hola Marleny"

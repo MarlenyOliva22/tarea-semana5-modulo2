@@ -1,0 +1,7 @@
+Esta ruta recibe un mensaje y contesta nuevamente el mensaje en un archivo json
+Recordemos que la API son mecanismos que permiten a dos software intercambiar información por medio de 
+definiciones y protocolos.
+
+El POST nos sirve en una aplicación comunitaria para recibir datos de los miembros 
+de la comunidad, por ejemplo PQRSF, publicar mensajes, registrar usuarios, subir archivos, etc.
+Recordemos que el POST es una forma de petición en protocolo HTTP desde el cliente hasta el servidor.
